@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-oni4yj.koi888.sbs/sitemap.xml
